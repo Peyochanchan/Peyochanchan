@@ -9,6 +9,7 @@ Most of my work lives in private GitLab and self-hosted Gitea repositories. What
 ### Open source
 
 - **[upload_d_n_d](https://github.com/Peyochanchan/upload_d_n_d)** — secure drag & drop uploads for Rails: server-side validation, fail-closed authorization, temporary uploads, orphan blob cleanup.
+- **[mcaptcha-pow](https://github.com/Peyochanchan/mcaptcha-pow)** — solves [mCaptcha](https://mcaptcha.org) challenges in the browser without the iframe widget: SHA-256 proof of work in a Web Worker, no dependencies, strict CSP. On [npm](https://www.npmjs.com/package/mcaptcha-pow).
 - **[mistral_translator](https://github.com/Peyochanchan/mistral_translator)** — Ruby gem to translate and summarize text with the Mistral AI API.
 
 ### Stack
